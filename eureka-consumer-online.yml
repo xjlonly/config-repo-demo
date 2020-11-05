@@ -1,0 +1,15 @@
+com:
+  example:
+    eureka: demo
+
+aaa:
+  bbb: 111
+  ccc: 222
+  ddd: 333
+
+xxx.
+  yyy: 88
+
+mm:
+  - "aa"
+  - "bb"
